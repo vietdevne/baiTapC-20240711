@@ -1,0 +1,14 @@
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/bin/Debug/net8.0/studentManagement
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/bin/Debug/net8.0/studentManagement.deps.json
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/bin/Debug/net8.0/studentManagement.runtimeconfig.json
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/bin/Debug/net8.0/studentManagement.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/bin/Debug/net8.0/studentManagement.pdb
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/obj/Debug/net8.0/studentManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/obj/Debug/net8.0/studentManagement.AssemblyInfoInputs.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/obj/Debug/net8.0/studentManagement.AssemblyInfo.cs
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/obj/Debug/net8.0/studentManagement.csproj.CoreCompileInputs.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/obj/Debug/net8.0/studentManagement.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/obj/Debug/net8.0/refint/studentManagement.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/obj/Debug/net8.0/studentManagement.pdb
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/obj/Debug/net8.0/studentManagement.genruntimeconfig.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/studentManagement/obj/Debug/net8.0/ref/studentManagement.dll

@@ -1,0 +1,14 @@
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/bin/Debug/net8.0/animal
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/bin/Debug/net8.0/animal.deps.json
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/bin/Debug/net8.0/animal.runtimeconfig.json
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/bin/Debug/net8.0/animal.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/bin/Debug/net8.0/animal.pdb
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/obj/Debug/net8.0/animal.GeneratedMSBuildEditorConfig.editorconfig
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/obj/Debug/net8.0/animal.AssemblyInfoInputs.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/obj/Debug/net8.0/animal.AssemblyInfo.cs
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/obj/Debug/net8.0/animal.csproj.CoreCompileInputs.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/obj/Debug/net8.0/animal.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/obj/Debug/net8.0/refint/animal.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/obj/Debug/net8.0/animal.pdb
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/obj/Debug/net8.0/animal.genruntimeconfig.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/OOP/animal/obj/Debug/net8.0/ref/animal.dll

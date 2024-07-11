@@ -1,0 +1,28 @@
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/obj/Debug/net8.0/baiTapC-20240711.GeneratedMSBuildEditorConfig.editorconfig
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/obj/Debug/net8.0/baiTapC-20240711.AssemblyInfoInputs.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/obj/Debug/net8.0/baiTapC-20240711.AssemblyInfo.cs
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/obj/Debug/net8.0/baiTapC-20240711.csproj.CoreCompileInputs.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/bin/Debug/net8.0/baiTapC-20240711
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/bin/Debug/net8.0/baiTapC-20240711.deps.json
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/bin/Debug/net8.0/baiTapC-20240711.runtimeconfig.json
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/bin/Debug/net8.0/baiTapC-20240711.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/bin/Debug/net8.0/baiTapC-20240711.pdb
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/obj/Debug/net8.0/baiTapC-20240711.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/obj/Debug/net8.0/refint/baiTapC-20240711.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/obj/Debug/net8.0/baiTapC-20240711.pdb
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/obj/Debug/net8.0/baiTapC-20240711.genruntimeconfig.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/obj/Debug/net8.0/ref/baiTapC-20240711.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/bin/Debug/net8.0/baiTapC-20240711
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/bin/Debug/net8.0/baiTapC-20240711.deps.json
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/bin/Debug/net8.0/baiTapC-20240711.runtimeconfig.json
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/bin/Debug/net8.0/baiTapC-20240711.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/bin/Debug/net8.0/baiTapC-20240711.pdb
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/obj/Debug/net8.0/baiTapC-20240711.GeneratedMSBuildEditorConfig.editorconfig
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/obj/Debug/net8.0/baiTapC-20240711.AssemblyInfoInputs.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/obj/Debug/net8.0/baiTapC-20240711.AssemblyInfo.cs
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/obj/Debug/net8.0/baiTapC-20240711.csproj.CoreCompileInputs.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/obj/Debug/net8.0/baiTapC-20240711.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/obj/Debug/net8.0/refint/baiTapC-20240711.dll
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/obj/Debug/net8.0/baiTapC-20240711.pdb
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/obj/Debug/net8.0/baiTapC-20240711.genruntimeconfig.cache
+/home/nguyen.quoc.vietb/research/baiTapC-20240711/C# cơ bản/obj/Debug/net8.0/ref/baiTapC-20240711.dll
